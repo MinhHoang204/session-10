@@ -1,0 +1,65 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    height: 100vh; /* vh: view height, vw: view width */
+}
+
+.item-1 {
+    height: 300px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-2 {
+    height: 1000px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-3 {
+    height: 900px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-4 {
+    height: 100px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-5 {
+    height: 500px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-6 {
+    height: 600px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-7 {
+    height: 800px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}
+
+.item-8 {
+    height: 400px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+}

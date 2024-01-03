@@ -1,0 +1,19 @@
+.header {
+    height: 200px;
+    width: 500px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+
+.header-list-item {
+    display: flex;
+    gap: 20px;
+}
+
+.header-item {
+    list-style: none;
+    color: #fff;
+}
